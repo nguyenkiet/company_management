@@ -1,2 +1,3 @@
-# company_management
-The sheets, roles, rules and some resources for building company
+# Company Management CheckSheet
+
+This repository is stored some document about management for Manager, HR, Engineer such as company's roles, rules, check sheet ...
